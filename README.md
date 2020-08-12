@@ -1,1 +1,1 @@
-# Netflix-prize--Recommender-systems
+# Netflix-prize-Recommender-systems

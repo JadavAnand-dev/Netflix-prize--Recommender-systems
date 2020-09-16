@@ -1,6 +1,6 @@
 # Netflix-prize-Recommender-systems
 
-Problem Description
+1.Problem Description
 
 Netflix is all about connecting people to the movies they love. To help customers find those movies, they
 developed world-class movie recommendation system: CinematchSM. Its job is to predict whether someone will
@@ -13,12 +13,12 @@ better predictions. Because, frankly, if there is a much better approach it coul
 customers and our business.
 Credits: https://www.netflixprize.com/rules.html
 
-Problem Statement
+2.Problem Statement
 Netflix provided a lot of anonymous rating data, and a prediction accuracy bar that is 10% better than what
 Cinematch can do on the same training data set. (Accuracy is a measurement of how closely predicted ratings of
 movies match subsequent actual ratings.)
 
-Resources
+3.Resources
 
 https://www.netflixprize.com/rules.html
 
